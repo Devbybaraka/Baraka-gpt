@@ -1,0 +1,4 @@
+.ENV/
+_pycache__/
+tokenizes_vocab.txt
+*.txt
