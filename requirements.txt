@@ -1,0 +1,3 @@
+# PyTorch is the only dependency. On a CPU-only laptop install it with:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+torch>=2.0

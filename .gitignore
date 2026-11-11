@@ -1,4 +1,9 @@
-.ENV/
-_pycache__/
-tokenizes_vocab.txt
-*.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
+checkpoints/
+data/tinyshakespeare.txt
+*.pt
+tokenizer_vocab.json
+.DS_Store
